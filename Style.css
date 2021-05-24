@@ -1,0 +1,26 @@
+.div1{
+    text-align: center;
+    margin-top: 220px;
+}
+img{
+    margin-top: -15px;
+    width: 100px;
+    height: 100px;
+    
+}
+
+h1{
+    background-color: green;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    word-spacing: -1px;
+    font-weight: bold;
+    cursor: cell;
+}
+body{
+    background-color: wheat;
+}
+
